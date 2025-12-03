@@ -1,0 +1,16 @@
+⚙️ Comment l’utiliser
+
+Crée un dossier de projet, par exemple :
+
+mkdir vagrant-web && cd vagrant-web
+
+
+Crée un fichier nommé Vagrantfile et colle le contenu ci-dessus.
+
+Lance la VM :
+
+vagrant up
+
+
+Une fois le processus terminé, ouvre ton navigateur et visite :
+👉 http://192.168.77.11
